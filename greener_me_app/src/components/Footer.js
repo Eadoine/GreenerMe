@@ -1,7 +1,7 @@
 // Footer.js
 import React from 'react';
 import './Footer.css'; 
-import logo from './images/GreenerMe.png'; // Import the logo image
+import logo from '../images/GreenerMe.png'; // Import the logo image
 
 
 const Footer = () => {
